@@ -37,5 +37,6 @@ https://user-images.githubusercontent.com/82360094/150813374-5409467b-08e5-4b2b-
 
 https://user-images.githubusercontent.com/82360094/150813435-c2ecb605-2eed-4225-89ff-2a6d7d6d0c2a.mp4
 
-
+## Cài đặt 
+ Giải nén file FinalProject.zip và tiến hành cài đăt file APK trên điện thoại.
 
