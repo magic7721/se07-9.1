@@ -50,8 +50,8 @@ public class PlacementMGR : MonoBehaviour
         placementPoseIsValid = hits.Count > 0;
         if(placementPoseIsValid)
         {
+        
             placementPose = hits[0].pose;
-
             var cameraForward = arSessionOrigin.camera.transform.forward;
             var cameraBearing = new Vector3(cameraForward.x , 0, cameraForward.z).normalized;
             placementPose.rotation = Quaternion.LookRotation(cameraBearing);
